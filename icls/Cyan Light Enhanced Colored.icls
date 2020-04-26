@@ -1,9 +1,9 @@
 <scheme name="Cyan Light Enhanced Colored" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-04-26T13:55:12</property>
+    <property name="created">2020-04-26T14:39:23</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-26T13:55:22</property>
+    <property name="modified">2020-04-26T14:39:42</property>
     <property name="originalScheme">Cyan Light Enhanced Colored</property>
   </metaInfo>
   <colors>
@@ -154,6 +154,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="ffcdd2" />
         <option name="EFFECT_COLOR" value="d90019" />
         <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
         <option name="EFFECT_TYPE" value="2" />
@@ -188,6 +189,12 @@
         <option name="FOREGROUND" value="185b9e" />
         <option name="EFFECT_COLOR" value="185b9e" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="b2dfdb" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -304,6 +311,12 @@
       <value>
         <option name="EFFECT_COLOR" value="1eb070" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffe0b2" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
